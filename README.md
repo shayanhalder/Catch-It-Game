@@ -4,7 +4,7 @@ Made with Python and the Pygame library.
 
 DEMO VIDEO: https://drive.google.com/open?id=1iogj-HpW1w-O_kzU3PlbWdI-DBR8Ddcd  
 
-All the .bmp files are images needed for this game. There is currently no executable (.exe) file for this game. 
+The .bmp image files for this game are not included because there is currently no executable (.exe) file for this game. 
 
 In this game, the player controls a basket at the bottom of the screen. The main objective is to catch as many of the
 good fruit falling from the ceiling and to dodge as many of the rotten fruit that also fall from the ceiling. If the 
