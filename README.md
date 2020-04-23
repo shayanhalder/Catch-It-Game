@@ -12,9 +12,7 @@ player touches the rotten fruit, they lose a life. If the player fails to catch 
 can press the spacebar to shoot a bullet that will destroy any rotten fruit that it encounters. The more times the rotten fruit
 hits the floor, the probability of spawning more rotten fruit increases, endangering the player's lives. The probability of the 
 rotten fruit's speed increases will also go up as more rotten fruit hit the floor, making the game increasingly challenging as 
-time goes on. 
-
-
-
+time goes on. When there are many fruits on the screen, a blue box appears around the good fruit, guiding the player when it is 
+hard to find the good fruit. 
 
 
